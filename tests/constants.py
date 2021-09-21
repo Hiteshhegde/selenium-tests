@@ -1,3 +1,3 @@
 EXEC_PATH = "geckodriver"
 BASE_URL = 'https://www.gmail.com/'
-EMAIL = 'hh9402'
+EMAIL = 'ur Email/ aNy email'
